@@ -2,5 +2,22 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/libobjc2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/libobjc2/third_party/robin-map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/libs-back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/libs-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/libs-corebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/libs-gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/swift-corelibs-libdispatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-20.04-clang-10.0-runtime-2.0/GNUstep-build/tools-make" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/libobjc2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/libobjc2/third_party/robin-map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/libs-back" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/libs-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/libs-corebase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/libs-gui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/swift-corelibs-libdispatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnustep-build/ubuntu-22.04-clang-14.0-runtime-2.1/GNUstep-build/tools-make" vcs="Git" />
   </component>
 </project>
